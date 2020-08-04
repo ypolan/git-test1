@@ -1,0 +1,2 @@
+public class chichi2 {
+}
